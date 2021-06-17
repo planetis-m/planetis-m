@@ -5,8 +5,6 @@ I speak 🇬🇷 Greek (native), 🇺🇲 English and 🇩🇪 German. I code mo
 
 ### Posts
 
-...or I am too lazy to set-up a static site.
-
 | date | post | brief | links |
 | :-: | :-: | --- | :-: |
-| 23/12/20 | An introduction to ECS by example | In this post I'm exploring the inner workings of an strict ECS implementation, discuss the... | [full text](https://github.com/planetis-m/goodluck/blob/main/docs/intro.rst) [discussion](https://forum.nim-lang.org/t/7280) |
+| 23/12/20 | An introduction to ECS by example | In this post I'm exploring the inner workings of an strict ECS implementation, discuss the... | [full text](https://planetis-m.github.io/goodluck/intro.html) [discussion](https://forum.nim-lang.org/t/7280) |
