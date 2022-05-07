@@ -20,8 +20,9 @@ Some of the most interesting software projects I've authored are:
 | [eminim](https://github.com/planetis-m/eminim) | JSON serialization framework, works from a Stream directly to any type and back. |
 | [manu](https://github.com/planetis-m/manu) | A linear algebra library in pure Nim. Supports constructing and manipulating real, dense matrices. |
 | [sync](https://github.com/planetis-m/sync) |  Useful synchronization primitives |
-| [bingo](https://github.com/planetis-m/bingo) |  Binary serialization framework  |
+| [bingo](https://github.com/planetis-m/bingo) |  Binary serialization framework |
 | [goodluck](https://github.com/planetis-m/goodluck) | A hackable template for creating small and fast games. Nim port |
+| [breakout](https://github.com/planetis-m/breakout) | Breakout game implemented using strict ECS architecture. Used as a testbed. |
 | [naylib](https://github.com/planetis-m/naylib) | Yet another raylib wrapper |
 | [packedjson2](https://github.com/planetis-m/packedjson2) | Efficient JSON implementation. The tree is essentially a seq of nodes. Based on planetis-m/jsonecs#8 |
 | [patgraph](https://github.com/planetis-m/patgraph) | Efficient graph data structure library. The graph is a seq of nodes plus a seq of edges. |
