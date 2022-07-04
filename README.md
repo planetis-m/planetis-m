@@ -32,4 +32,4 @@ Some of the most interesting software projects I've authored are:
 | [neuralnet-examples](https://github.com/planetis-m/neuralnet-examples) | Neural network examples |
 | [protocoled](https://github.com/planetis-m/protocoled) | Interface macro |
 | [fusion/astdsl](https://github.com/nim-lang/fusion) | A DSL for convenient construction of Nim ASTs |
-| [looper](https://github.com/planetis-m/looper) | For loop macros, enumerate (deprecated), zip, collect (merged upstream) |
+| [looper](https://github.com/planetis-m/looper) | For loop macros, zip, enumerate, collect (merged upstream) |
