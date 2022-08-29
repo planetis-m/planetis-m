@@ -16,6 +16,7 @@ Some of the most interesting software projects I've authored are:
 
 | Name | Description |
 | :-: | --- |
+| [drchaos](https://github.com/status-im/nim-drchaos) | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets. |
 | [libfuzzer](https://github.com/planetis-m/libfuzzer) | Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine. |
 | [eminim](https://github.com/planetis-m/eminim) | JSON serialization framework, works from a Stream directly to any type and back. |
 | [manu](https://github.com/planetis-m/manu) | A linear algebra library in pure Nim. Supports constructing and manipulating real, dense matrices. |
