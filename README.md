@@ -7,6 +7,8 @@ I speak 🇬🇷 Greek (native), 🇺🇲 English and 🇩🇪 German. I code mo
 
 | date | post | brief | links |
 | :-: | :-: | --- | :-: |
+| 14/4/23 | Using NimScript for your build system | Welcome to this tutorial on using NimScript for your build system! | [full text](https://planetisrocks.blogspot.com/2023/04/using-nimscript-for-your-build-system.html) |
+| 13/4/23 | Naylib Goes Mobile: Porting to Android in Just 3 Days! | In this post, I'll share how I managed to port my Nim raylib bindings to Android in just three days. | [full text](https://planetisrocks.blogspot.com/2023/04/naylib-goes-mobile-porting-to-android.html) |
 | 23/12/20 | An introduction to ECS by example | In this post I'm exploring the inner workings of an strict ECS implementation, discuss the... | [full text](https://planetis-m.github.io/goodluck/intro.html) [discussion](https://forum.nim-lang.org/t/7280) |
 | 7/6/18 | Creating a simple macro | Hello, as you might know Nim is a powerful programming language that supports metaprogramming... | [full text](https://nim-lang.org/blog/2018/06/07/create-a-simple-macro.html) |
 
