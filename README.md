@@ -27,7 +27,7 @@ Some of the most interesting software projects I've authored are:
 | [goodluck](https://github.com/planetis-m/goodluck) | A hackable template for creating small and fast games. Nim port |
 | [breakout](https://github.com/planetis-m/breakout) | Breakout game implemented using strict ECS architecture. Used as a testbed. |
 | [naylib](https://github.com/planetis-m/naylib) | Yet another raylib wrapper |
-| [packedjson2](https://github.com/planetis-m/packedjson2) | Efficient JSON implementation. The tree is essentially a seq of nodes. Based on planetis-m/jsonecs#8 |
+| [jsonpak](https://github.com/planetis-m/jsonpak) | Packed ASTs for compact and efficient JSON representation, with JSON Pointer, JSON Patch support. |
 | [patgraph](https://github.com/planetis-m/patgraph) | Efficient graph data structure library. The graph is a seq of nodes plus a seq of edges. |
 | [ssostrings](https://github.com/planetis-m/ssostrings) | Small String Optimized (SSO) string implementation |
 | [cowstrings](https://github.com/planetis-m/cowstrings) | Copy-On-Write string implementation according to nim-lang/RFCs#221 |
