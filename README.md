@@ -1,7 +1,7 @@
 ### Γεια 👋
 
-My name is Antonis Geralis. I am an engineering student.
-I speak 🇬🇷 Greek (native), 🇺🇲 English and 🇩🇪 German. I code mostly in [Nim](nim-lang.org/). My programming interests include multithreading, fuzzing, traffic simulations, games and web-apps. I love solving hard problems and learning about Computer Science.
+My name is Antonis Geralis. I am a computer science student.
+I speak 🇬🇷 Greek (native), 🇺🇲 English and 🇩🇪 German. I code mostly in [Nim](nim-lang.org/), but I am quick to pick up new languages and frameworks. My programming interests include multithreading, machine learning, fuzzing and vulnerability assessment, making indie games and web-apps. I love solving hard problems and learning about Computer Science.
 
 ### Posts
 
